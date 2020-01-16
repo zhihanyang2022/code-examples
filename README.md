@@ -24,4 +24,34 @@ code snippets from different languages
   - article: `<article></article>`
   - figure: `<figure></figure>`
 
+## css (cascading style sheet)
+
+- notes:
+  - separates style information from the structure of pages
+- ```
+asda
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
