@@ -1,7 +1,10 @@
 # code-examples
 code snippets from different languages
 
+## what are languages
+
 ## html-5
+
 - notes:
   - elements have default css settings
 - structural elements:
@@ -27,7 +30,8 @@ code snippets from different languages
 ## css (cascading style sheet)
 
 - notes:
-  - separates style information from the structure of pages
+  - separate style information from the structure of pages
+  - allow for code reuse
 - syntax:
   ```{css}
   [element-selecter] {
@@ -44,19 +48,24 @@ code snippets from different languages
     padding-bottom: 6px;
   }
   ```
-- to refer to a class: `[html-element].[class-name]` or just `.[class-name]`
-- how to target a specific html element (use classes in favor of ids)
-  - html:
-    ```{html}
-    <p class='big'> This is supposed to look big. </p>
-    ```
-  - css:
-    ```{css}
-    p.big {
-      font-size: 50px
-    }
-    ```
+- how to refer to a class: `[html-element].[class-name]` or just `.[class-name]`
+  - how to target a specific html element using a class (always use classes in favor of ids)
+    - html:
+      ```{html}
+      <p class='big'> This is supposed to look big. </p>
+      ```
+    - css:
+      ```{css}
+      p.big {
+        font-size: 50px
+      }
+      ```
 
+## javascript
+
+- dom: document object model
+  - the overall container object is called the document
+  - for example, `document.header`, `document.body`
 
 
 
