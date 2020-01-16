@@ -31,11 +31,10 @@ code snippets from different languages
 - syntax:
   ```{css}
   [element-selecter] {
-    [element-attribute]: [value]
+    [element-attribute]: [value];
   }
   ```
 - an example:
-
   ```{css}
   body {
     background: white;
@@ -45,6 +44,18 @@ code snippets from different languages
     padding-bottom: 6px;
   }
   ```
+- to refer to a class: `[html-element].[class-name]` or just `.[class-name]`
+- how to target a specific html element (use classes in favor of ids)
+  - html:
+    ```{html}
+    <p class='big'> This is supposed to look big. </p>
+    ```
+  - css:
+    ```{css}
+    p.big {
+      font-size: 50px
+    }
+    ```
 
 
 
