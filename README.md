@@ -6,6 +6,7 @@ code snippets from different languages
   - elements have default css settings
 - structural elements:
   - open and close html: `<html></html>`
+  - style (for css): `<style></style>`
   - metadata: `<head></head>`
   - body (actually displayed): `<body></body>`
   - title (used within metadata): `<title></title>`
