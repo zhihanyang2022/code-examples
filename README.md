@@ -66,7 +66,8 @@ code snippets from different languages
 - how to open javascript console in chrome: developer tools => javscript console
 - dom: document object model
   - the overall container object is called the document
-  - for example, `document.head`, `document.body`, `document.getElementById`, `document.getElementByClassName`
+  - attributes: `document.head`, `document.body`
+  - methods: `document.getElementById`, `document.getElementByClassName`
 
 
 
