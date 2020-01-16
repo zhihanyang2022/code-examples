@@ -28,8 +28,15 @@ code snippets from different languages
 
 - notes:
   - separates style information from the structure of pages
-- ```
-asda
+- 
+```{css}
+body {
+  background: white;
+}
+
+li {
+  padding-bottom: 6px;
+}
 ```
 
 
