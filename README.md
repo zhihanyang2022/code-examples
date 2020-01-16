@@ -28,16 +28,16 @@ code snippets from different languages
 
 - notes:
   - separates style information from the structure of pages
-- 
-```{css}
-body {
-  background: white;
-}
+- an example:
+  ```{css}
+  body {
+    background: white;
+  }
 
-li {
-  padding-bottom: 6px;
-}
-```
+  li {
+    padding-bottom: 6px;
+  }
+  ```
 
 
 
