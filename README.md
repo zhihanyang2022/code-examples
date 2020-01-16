@@ -28,6 +28,12 @@ code snippets from different languages
 
 - notes:
   - separates style information from the structure of pages
+- syntax:
+  ```{css}
+  [element-selecter] {
+    [element-attribute]: [value]
+  }
+  ```
 - an example:
 
   ```{css}
