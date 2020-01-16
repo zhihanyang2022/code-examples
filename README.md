@@ -63,9 +63,10 @@ code snippets from different languages
 
 ## javascript
 
+- how to open javascript console in chrome: developer tools => javscript console
 - dom: document object model
   - the overall container object is called the document
-  - for example, `document.header`, `document.body`
+  - for example, `document.head`, `document.body`
 
 
 
