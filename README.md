@@ -29,6 +29,7 @@ code snippets from different languages
 - notes:
   - separates style information from the structure of pages
 - an example:
+
   ```{css}
   body {
     background: white;
